@@ -1,0 +1,83 @@
+0,Gelatina en polvo,17,5,893,98,5427
+1,Aceites y grasas vegetales comestibles,32,8,553,38,5822
+2,Harinas de trigo,21,2,292,20,10063
+3,Agua embotellada,11,8,343,45,8207
+4,Huevo,19,6,492,35,133
+5,Analgésicos,23,6,289,35,8646
+6,Jabón de tocador,13,6,667,23,8694
+7,Antibióticos,30,9,85,0,3854
+8,Jabón para lavar,5,4,360,50,7906
+9,Antigripales,45,3,919,20,4814
+10,Jamón,42,3,280,44,6300
+11,Antiinflamatorios,33,8,150,93,1614
+12,Larga,45,7,445,20,5489
+13,distancia nacional,48,10,455,98,7716
+14,Arroz,22,6,56,90,9773
+15,Leche en polvo,2,10,927,78,9156
+16,Atún y sardina en lata,39,9,789,18,336
+17,Leche evaporada, condensada y maternizada,1,1,239,34,519
+18,Autobús foráneo,22,9,133,77,9534
+19,Leche pasteurizada y fresca,26,1,216,79,4765
+20,Autobús urbano,49,1,159,17,6341
+21,Licuadoras,49,6,906,35,5012
+22,Azúcar,44,2,264,31,9647
+23,Masa y harinas de maíz,3,8,72,65,7973
+24,Bicicletas y motocicletas,34,9,593,34,1410
+25,Material de curación,8,10,21,65,3518
+26,Blanqueadores,47,6,892,88,5213
+27,Material escolar,48,9,497,52,7356
+28,Café soluble,44,10,488,11,10043
+29,Medicamentos para alergias,8,7,99,90,7369
+30,Café tostado,22,3,349,27,9365
+31,Medicamentos para diabetes,38,7,4,86,1318
+32,Cardiovasculares,23,6,285,40,1728
+33,Medicinas homeopáticas y naturistas,18,9,736,26,3752
+34,Carne de res,45,4,172,19,4145
+35,Metro o transporte eléctrico,21,1,186,71,1279
+36,Cerillos,48,6,500,31,3457
+37,Navajas y máquinas de,36,5,819,85,2315
+38,afeitar,8,7,381,36,6616
+39,Cerveza,47,2,609,64,355
+40,Nutricionales,11,5,536,85,1286
+41,Chiles envasados, moles y salsas,22,1,638,40,9011
+42,Otros Medicamentos,26,3,43,5,4761
+43,Chocolate,36,5,394,53,1754
+44,Pan blanco,23,5,952,4,1184
+45,Cine,33,10,775,10,4860
+46,Pan de caja,46,1,374,71,2256
+47,Colectivo,17,6,826,63,3187
+48,Papel higiénico y pañuelos desechables,3,8,883,83,1037
+49,Concentrados de pollo y sal,34,2,698,16,8294
+50,Pasta dental,27,9,606,76,9106
+51,Cremas para la piel,27,2,663,92,10073
+52,Pasta para sopa,48,3,228,97,8030
+53,Dermatológicos,13,8,689,64,2306
+54,Pilas,4,9,26,16,4566
+55,Desodorantes personales,50,5,773,18,7647
+56,Planchas eléctricas,30,1,948,88,5388
+57,Detergentes,16,6,422,82,2552
+58,Refrescos envasados,13,7,826,30,237
+59,Electricidad,6,2,993,22,1367
+60,Refrigeradores,24,9,409,50,1936
+61,Estufas,38,1,261,23,1729
+62,Reproductores de video,29,2,965,4,8580
+63,Expectorantes y descongestivos,32,1,392,15,9831
+64,Servicio de telefonía móvil,44,4,723,76,9387
+65,Focos,28,10,774,3,2234
+66,Servicio telefónico local fijo,46,4,125,91,489
+67,Frijol,48,6,336,60,10099
+68,Servilletas de papel,40,1,379,82,8528
+69,Frijol procesado,14,1,592,20,5040
+70,Sopas instantáneas y puré de tomate,32,8,271,2,402
+71,Galletas,5,3,411,99,6532
+72,Suavizantes y limpiadores,34,2,168,39,1053
+73,Gas doméstico LP,43,5,917,6,4253
+74,Taxi,39,4,349,38,9216
+75,Gas doméstico natural,21,10,242,82,666
+76,Televisores,3,6,193,81,7258
+77,Gasolina de alto octanaje,35,2,470,58,9323
+78,Tortilla de maíz,31,10,402,94,3135
+79,Gasolina de bajo octanaje,7,5,692,36,4793
+80,Tostadas,18,8,225,28,7774
+81,Gastrointestinales,13,5,230,70,9072
+82,Vísceras de res,27,5,872,1,7505
